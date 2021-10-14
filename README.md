@@ -1,7 +1,7 @@
 # Derin Öğrenmeye Giriş
 
-Bu repo uzun süredir çeşitli platformlarda görüntü işleme alanında OpenCV kütüphanesini kullanarak verdiğim eğitimlerdeki kodları içermektedir. 
+Bu repo, çeşitli platformlarda derin öğrenme alanında verdiğim eğitimlerdeki kodları ve diğer dökümanları içermektedir. 
 
-Eğitimler ilerledikçe daha fazlası da eklenecektir. Kodların ayrıntılı açıklamaları Udemy ve Youtube gibi paltformlarda yayınladığım eğitimlerde bulunmaktadır.
+Eğitimler ilerledikçe daha fazlası da eklenecektir. Kodların ayrıntılı açıklamaları Youtube'da yayınladığım eğitimlerde bulunmaktadır.
 
 ![alt text](https://thumbs.gfycat.com/CircularLimpingHartebeest-max-1mb.gif)
